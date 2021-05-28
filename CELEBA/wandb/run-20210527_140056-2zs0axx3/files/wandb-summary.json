@@ -1,0 +1,1 @@
+{"Datasize": 2312, "Test_Loss": 0.6931748628616333, "AUROC_filtered": 0.5209598515519568, "AUROC_all": 0.5002316481348158, "Accuracy_filtered": 0.5080995653891742, "Accuracy_all": 0.4938, "Epoch": 1, "_runtime": 314, "_timestamp": 1622124371, "_step": 3}

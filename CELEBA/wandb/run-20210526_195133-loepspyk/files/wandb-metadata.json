@@ -1,0 +1,26 @@
+{
+    "os": "Linux-4.15.0-54-generic-x86_64-with-debian-buster-sid",
+    "python": "3.6.9",
+    "heartbeatAt": "2021-05-26T19:51:38.224459",
+    "startedAt": "2021-05-26T19:51:33.728390",
+    "docker": null,
+    "gpu": "Tesla V100-SXM2-32GB",
+    "gpu_count": 8,
+    "cpu_count": 80,
+    "cuda": "10.2.89",
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-de1a8e65-d4f1-4a4b-9e41-4d8f749ec8b8.json"
+    ],
+    "state": "running",
+    "program": "code/CelebA NonPretrained.ipynb",
+    "root": "/home",
+    "git": {
+        "remote": "https://github.com/dhudsmith/image-triplet-representations.git",
+        "commit": "0683960d4fb9c0b7df41f69013e2a93a5257de6c"
+    },
+    "email": "dsaad@clemson.edu",
+    "host": "b9057240fb08",
+    "username": "root",
+    "executable": "/opt/conda/bin/python"
+}

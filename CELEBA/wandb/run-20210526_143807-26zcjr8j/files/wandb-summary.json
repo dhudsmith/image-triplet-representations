@@ -1,0 +1,1 @@
+{"Datasize": 10000, "Test_Loss": 0.6763463854789734, "AUROC_filtered": 0.6984055695714773, "Accuracy_filtered": 0.0, "Accuracy_all": 0.5386, "Epoch": 10, "_runtime": 291, "_timestamp": 1622040179, "_step": 0}
